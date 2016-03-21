@@ -22,6 +22,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'devise', '~> 3.5.6'
 
+gem 'paperclip', '~> 4.2'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
